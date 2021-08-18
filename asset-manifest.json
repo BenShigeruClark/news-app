@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BenShigeruClark.io/news-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/BenShigeruClark.io/news-app/static/js/main.cc3c011c.chunk.js",
+    "main.js.map": "/BenShigeruClark.io/news-app/static/js/main.cc3c011c.chunk.js.map",
+    "runtime-main.js": "/BenShigeruClark.io/news-app/static/js/runtime-main.845482b3.js",
+    "runtime-main.js.map": "/BenShigeruClark.io/news-app/static/js/runtime-main.845482b3.js.map",
+    "static/js/2.f59f1783.chunk.js": "/BenShigeruClark.io/news-app/static/js/2.f59f1783.chunk.js",
+    "static/js/2.f59f1783.chunk.js.map": "/BenShigeruClark.io/news-app/static/js/2.f59f1783.chunk.js.map",
+    "static/js/3.75bb161d.chunk.js": "/BenShigeruClark.io/news-app/static/js/3.75bb161d.chunk.js",
+    "static/js/3.75bb161d.chunk.js.map": "/BenShigeruClark.io/news-app/static/js/3.75bb161d.chunk.js.map",
+    "index.html": "/BenShigeruClark.io/news-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/BenShigeruClark.io/news-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f59f1783.chunk.js.LICENSE.txt": "/BenShigeruClark.io/news-app/static/js/2.f59f1783.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BenShigeruClark.io/news-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.845482b3.js",
+    "static/js/2.f59f1783.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.cc3c011c.chunk.js"
+  ]
+}
